@@ -1,4 +1,6 @@
 [package]
+description = "ternary-cadence - SuperInstance ecosystem crate"
+repository = "https://github.com/SuperInstance/ternary-cadence"
 name = "ternary-cadence"
 version = "0.1.0"
 edition = "2024"
